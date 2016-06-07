@@ -1,0 +1,3 @@
+org\contract\App.class
+org\contract\IModel.class
+org\contract\IView.class
