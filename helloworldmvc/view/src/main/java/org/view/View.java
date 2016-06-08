@@ -4,8 +4,8 @@ import org.contract.IView;
 
 public class View implements IView{
 
-	public String displayMessage(String message) {
-		return null;
+	public void displayMessage(String message) {
+		System.out.println(message);
 	}
 
 }
